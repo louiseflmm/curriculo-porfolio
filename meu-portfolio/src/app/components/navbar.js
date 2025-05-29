@@ -13,6 +13,11 @@ export default function Navbar() {
             </a>
           </li>
           <li>
+            <a href="#cachorro" className="hover:text-[#a0522d] transition">
+              Imagem Cachorro
+            </a>
+          </li>
+          <li>
             <a href="#sobre" className="hover:text-[#a0522d] transition">
               Sobre
             </a>
@@ -23,8 +28,8 @@ export default function Navbar() {
             </a>
           </li>
           <li>
-            <a href="#contato" className="hover:text-[#a0522d] transition">
-              Contato
+            <a href="#jogo" className="hover:text-[#a0522d] transition">
+              Jogo
             </a>
           </li>
         </ul>
